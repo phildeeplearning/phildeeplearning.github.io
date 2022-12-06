@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: The Challenge of Compositionality for AI
-email: compositionalityworkshop@raphaelmilliere.com
+title: The Philosophy of Deep Learning
+email: phildeeplearning@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  June 29-30, 2022
+  March 25-26, 2023
 baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://compositionalintelligence.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://phildeeplearning.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 footer:
   credit: false
