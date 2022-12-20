@@ -7,7 +7,7 @@ layout: home
 
 <p style="text-align:center;"><img width="25%" src="logo.png" alt="Logo" loading="lazy"></p>
 
-[[About](#about) · [Speakers](#conference-speakers) · [Call for Abstracts](#call-for-abstract)]
+[[About](#about) · [Speakers](#conference-speakers) · [Call for Abstracts](#call-for-abstracts)]
 
 A two-day conference on the philosophy of deep learning, organized by [Raphaël Millière](https://raphaelmilliere.com) (Columbia University), [David Chalmers](https://consc.net/) (New York University) and [Ned Block](https://www.nedblock.us/) (New York University), and jointly sponsored by the [Center for Science and Society](https://scienceandsociety.columbia.edu/) at Columbia University and the [Center for Mind, Brain, and Consciousness](https://wp.nyu.edu/consciousness/) at New York University.
 
