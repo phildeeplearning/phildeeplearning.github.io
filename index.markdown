@@ -11,7 +11,7 @@ layout: home
 
 [[About](#about) · [Speakers](#conference-speakers) · [Call for Abstracts](#call-for-abstracts)]
 
-A two-day conference on the philosophy of deep learning, organized by [Ned Block](https://www.nedblock.us/) (New York University), [David Chalmers](https://consc.net/) (New York University) and [Raphaël Millière](https://raphaelmilliere.com) (Columbia University), and jointly sponsored by the [Center for Science and Society](https://scienceandsociety.columbia.edu/) at Columbia University and the [Center for Mind, Brain, and Consciousness](https://wp.nyu.edu/consciousness/) at New York University.
+A two-day conference on the philosophy of deep learning, organized by [Ned Block](https://www.nedblock.us/) (New York University), [David Chalmers](https://consc.net/) (New York University) and [Raphaël Millière](https://raphaelmilliere.com) (Columbia University), and jointly sponsored by the [Presidential Scholars in Society and Neuroscience program](https://scienceandsociety.columbia.edu/content/presidential-scholars-society-and-neuroscience) at Columbia University and the [Center for Mind, Brain, and Consciousness](https://wp.nyu.edu/consciousness/) at New York University.
 
 ## About
 
@@ -32,15 +32,15 @@ A pre-conference debate on Friday, March 24th will tackle the question “Do lar
 
 ## Conference speakers
 
-- [Cameron Buckner](http://cameronbuckner.net/) <a href="https://scholar.google.com/citations?user=OXgCldoAAAAJ&hl=en&oi=ao"><i class="fa-solid fa-graduation-cap"></i></a> (University of Houston)
-- [Rosa Cao](https://sites.google.com/site/luosha/home) https://scholar.google.com/citations?hl=en&user=Zq4LxlUAAAAJ) (Stanford University)
-- [Ishita Dasgupta](https://ishita-dg.github.io/) https://scholar.google.com/citations?hl=en&user=eJt6cSIAAAAJ) (DeepMind)
-- [Nikolaus Kriegeskorte](https://zuckermaninstitute.columbia.edu/nikolaus-kriegeskorte-phd) (https://scholar.google.com/citations?hl=en&user=w6M4YN4AAAAJ) (Columbia University)
-- [Brenden Lake](https://cims.nyu.edu/~brenden/) https://scholar.google.com/citations?hl=en&user=vspmOX8AAAAJ) (New York University / Meta AI) 
-- [Grace Lindsay](https://gracewlindsay.com/) (https://scholar.google.com/citations?user=4kETHY4AAAAJ&hl=en&oi=sra) (New York University)
-- [Tal Linzen](https://tallinzen.net/) (https://scholar.google.com/citations?hl=en&user=5mJDXjoAAAAJ) (New York University / Google AI) 
-- [Raphaël Millière](https://www.raphaelmilliere.com/)(https://scholar.google.com/citations?hl=en&user=_2kiRH0AAAAJ) (Columbia University)
-- [Nicholas Shea](https://www.nicholasshea.co.uk/) (https://scholar.google.com/citations?hl=en&user=zWV1_3oAAAAJ) (Institute of Philosophy)
+- [Cameron Buckner](http://cameronbuckner.net/) (University of Houston) <a href="https://scholar.google.com/citations?user=OXgCldoAAAAJ&hl=en&oi=ao"><i class="fa-solid fa-graduation-cap"></i></a>
+- [Rosa Cao](https://sites.google.com/site/luosha/home) (Stanford University) <a href="https://scholar.google.com/citations?hl=en&user=Zq4LxlUAAAA"><i class="fa-solid fa-graduation-cap"></i></a>
+- [Ishita Dasgupta](https://ishita-dg.github.io/) (DeepMind) <a href="https://scholar.google.com/citations?hl=en&user=eJt6cSIAAAAJ"><i class="fa-solid fa-graduation-cap"></i></a>
+- [Nikolaus Kriegeskorte](https://zuckermaninstitute.columbia.edu/nikolaus-kriegeskorte-phd) (Columbia University) <a href="https://scholar.google.com/citations?hl=en&user=w6M4YN4AAAAJ"><i class="fa-solid fa-graduation-cap"></i></a>
+- [Brenden Lake](https://cims.nyu.edu/~brenden/) (New York University / Meta AI) <a href="https://scholar.google.com/citations?hl=en&user=vspmOX8AAAAJ"><i class="fa-solid fa-graduation-cap"></i></a>
+- [Grace Lindsay](https://gracewlindsay.com/) (New York University) <a href="https://scholar.google.com/citations?user=4kETHY4AAAAJ&hl=en&oi=sra"><i class="fa-solid fa-graduation-cap"></i></a>
+- [Tal Linzen](https://tallinzen.net/) (New York University / Google AI) <a href="https://scholar.google.com/citations?hl=en&user=5mJDXjoAAAAJ"><i class="fa-solid fa-graduation-cap"></i></a>
+- [Raphaël Millière](https://www.raphaelmilliere.com/) (Columbia University) <a href="https://scholar.google.com/citations?hl=en&user=_2kiRH0AAAAJ"><i class="fa-solid fa-graduation-cap"></i></a>
+- [Nicholas Shea](https://www.nicholasshea.co.uk/) (Institute of Philosophy, University of London) <a href="https://scholar.google.com/citations?hl=en&user=zWV1_3oAAAAJ"><i class="fa-solid fa-graduation-cap"></i></a>
 
 ## Call for abstracts
 
