@@ -5,6 +5,8 @@
 layout: home
 ---
 
+<script src="https://kit.fontawesome.com/74942b0a11.js" crossorigin="anonymous"></script>
+
 <p style="text-align:center;"><img width="25%" src="logo.png" alt="Logo" loading="lazy"></p>
 
 [[About](#about) · [Speakers](#conference-speakers) · [Call for Abstracts](#call-for-abstracts)]
@@ -31,14 +33,14 @@ A pre-conference debate on Friday, March 24th will tackle the question “Do lar
 ## Conference speakers
 
 - [Cameron Buckner](http://cameronbuckner.net/) <a href="https://scholar.google.com/citations?user=OXgCldoAAAAJ&hl=en&oi=ao"><i class="fa-solid fa-graduation-cap"></i></a> (University of Houston)
-- [Rosa Cao](https://scholar.google.com/citations?hl=en&user=Zq4LxlUAAAAJ) (Stanford University)
-- [Ishita Dasgupta](https://scholar.google.com/citations?hl=en&user=eJt6cSIAAAAJ) (DeepMind)
-- [Niko Kriegeskorte](https://scholar.google.com/citations?hl=en&user=w6M4YN4AAAAJ) (Columbia University)
-- [Brenden Lake](https://scholar.google.com/citations?hl=en&user=vspmOX8AAAAJ) (New York University / Meta AI) 
-- [Grace Lindsay](https://scholar.google.com/citations?user=4kETHY4AAAAJ&hl=en&oi=sra) (New York University)
-- [Tal Linzen](https://scholar.google.com/citations?hl=en&user=5mJDXjoAAAAJ) (New York University / Google AI) 
-- [Raphaël Millière](https://scholar.google.com/citations?hl=en&user=_2kiRH0AAAAJ) (Columbia University)
-- [Nick Shea](https://scholar.google.com/citations?hl=en&user=zWV1_3oAAAAJ) (Institute of Philosophy)
+- [Rosa Cao](https://sites.google.com/site/luosha/home) https://scholar.google.com/citations?hl=en&user=Zq4LxlUAAAAJ) (Stanford University)
+- [Ishita Dasgupta](https://ishita-dg.github.io/) https://scholar.google.com/citations?hl=en&user=eJt6cSIAAAAJ) (DeepMind)
+- [Nikolaus Kriegeskorte](https://zuckermaninstitute.columbia.edu/nikolaus-kriegeskorte-phd) (https://scholar.google.com/citations?hl=en&user=w6M4YN4AAAAJ) (Columbia University)
+- [Brenden Lake](https://cims.nyu.edu/~brenden/) https://scholar.google.com/citations?hl=en&user=vspmOX8AAAAJ) (New York University / Meta AI) 
+- [Grace Lindsay](https://gracewlindsay.com/) (https://scholar.google.com/citations?user=4kETHY4AAAAJ&hl=en&oi=sra) (New York University)
+- [Tal Linzen](https://tallinzen.net/) (https://scholar.google.com/citations?hl=en&user=5mJDXjoAAAAJ) (New York University / Google AI) 
+- [Raphaël Millière](https://www.raphaelmilliere.com/)(https://scholar.google.com/citations?hl=en&user=_2kiRH0AAAAJ) (Columbia University)
+- [Nicholas Shea](https://www.nicholasshea.co.uk/) (https://scholar.google.com/citations?hl=en&user=zWV1_3oAAAAJ) (Institute of Philosophy)
 
 ## Call for abstracts
 
