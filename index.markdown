@@ -9,28 +9,28 @@ layout: home
 
 [[About](#about) · [Speakers](#conference-speakers) · [Call for Abstracts](#call-for-abstracts)]
 
-A two-day conference on the philosophy of deep learning, organized by [Raphaël Millière](https://raphaelmilliere.com) (Columbia University), [David Chalmers](https://consc.net/) (New York University) and [Ned Block](https://www.nedblock.us/) (New York University), and jointly sponsored by the [Center for Science and Society](https://scienceandsociety.columbia.edu/) at Columbia University and the [Center for Mind, Brain, and Consciousness](https://wp.nyu.edu/consciousness/) at New York University.
+A two-day conference on the philosophy of deep learning, organized by [Ned Block](https://www.nedblock.us/) (New York University), [David Chalmers](https://consc.net/) (New York University) and [Raphaël Millière](https://raphaelmilliere.com) (Columbia University), and jointly sponsored by the [Center for Science and Society](https://scienceandsociety.columbia.edu/) at Columbia University and the [Center for Mind, Brain, and Consciousness](https://wp.nyu.edu/consciousness/) at New York University.
 
 ## About
 
-The conference will explore current issues in AI research from the perspective of the philosophy of mind, cognitive science, neuroscience, and computational linguistics, with a particular attention to recent work on deep artificial neural networks. The goal is to bring together philosophers and scientists working on gaining a better understanding of the capacities and limitations of artificial neural networks developed in AI research, as well as establishing fair and meaningful comparisons with human cognition in various domains – such as vision, language understanding, reasoning, planning, and memory. 
+The conference will explore current issues in AI research from a philosophical perspective, with particular attention to recent work on deep artificial neural networks. The goal is to bring together philosophers and scientists who are thinking about these systems in order to gain a better understanding of their capacities, their limitations, and their relationship to human cognition.
 
-Current research in the philosophy of AI focuses mostly on practical issues about short- and long-term concerns with the development and use of AI algorithm. While these issues are very important in their own right, many of them can benefit from a deeper theoretical understanding of algorithms used in AI research. Furthermore, there is currently a convergence of interest for a more foundational approach to the philosophy of AI, that seeks to understand the kinds of capacities we can ascribe to AI models, how they might differ from human minds, and remaining hurdles on the path to human-like intelligence. 
+The conference will focus especially on topics in the philosophy of cognitive science (rather than on topics in AI ethics and safety).  It will explore questions such as:
 
-The purpose of this conference is to tackle these issues head-on, and further establish this research program in philosophy. It will explore questions such as:
-
+- What cognitive capacities, if any, do current deep learning systems possess?
+- What cognitive capacities might future deep learning systems possess?
 - What kind of representations can we ascribe to artificial neural networks?
-- How might such representations differ from those ascribed to biological neural networks in neuroscience?
-- How can we develop a mechanistic understanding of artificial and biological neural networks?
-- What notion of mechanistic explanation might be appropriate to this project?
-- Can artificial neural networks understand language and the world like humans do?
-- What can we learn about human perception and cognition from building and studying neural networks?
+- Could a large language model genuinely understand language?
+- What do deep learning systems tell us about human cognition, and vice versa?
+- How can we develop a theoretical understanding of deep learning systems?
+- How do deep learning systems bear on philosophical debates such as rationalism vs empiricism and classical vs. nonclassical views of cognition.
+- What are the key obstacles on the path from current deep learning systems to human-level cognition?
 
-A pre-conference debate on Friday, March 24th will tackle the question "Do large language models need sensory grounding for meaning and understanding ?" (speakers TBC).
+A pre-conference debate on Friday, March 24th will tackle the question “Do large language models need sensory grounding for meaning and understanding ?”.  Speakers include Jacob Browning, David Chalmers, Yann LeCun, and Ellie Pavlick.
 
 ## Conference speakers
 
-- [Cameron Buckner](https://scholar.google.com/citations?user=OXgCldoAAAAJ&hl=en&oi=ao) (University of Houston)
+- [Cameron Buckner](http://cameronbuckner.net/) <a href="https://scholar.google.com/citations?user=OXgCldoAAAAJ&hl=en&oi=ao"><i class="fa-solid fa-graduation-cap"></i></a> (University of Houston)
 - [Rosa Cao](https://scholar.google.com/citations?hl=en&user=Zq4LxlUAAAAJ) (Stanford University)
 - [Ishita Dasgupta](https://scholar.google.com/citations?hl=en&user=eJt6cSIAAAAJ) (DeepMind)
 - [Niko Kriegeskorte](https://scholar.google.com/citations?hl=en&user=w6M4YN4AAAAJ) (Columbia University)
