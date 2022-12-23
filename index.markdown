@@ -28,19 +28,19 @@ The conference will focus especially on topics in the philosophy of cognitive sc
 - How do deep learning systems bear on philosophical debates such as rationalism vs empiricism and classical vs. nonclassical views of cognition.
 - What are the key obstacles on the path from current deep learning systems to human-level cognition?
 
-A pre-conference debate on Friday, March 24th will tackle the question “Do large language models need sensory grounding for meaning and understanding ?”.  Speakers include Jacob Browning, David Chalmers, Yann LeCun, and Ellie Pavlick.
+A pre-conference debate on Friday, March 24th will tackle the question “Do large language models need sensory grounding for meaning and understanding ?”.  Speakers include [Jacob Browning](https://www.berggruen.org/people/jacob-browning/) (New York University), [David Chalmers](https://consc.net/) (New York University), [Yann LeCun](https://engineering.nyu.edu/faculty/yann-lecun) (New York University), and [Ellie Pavlick](https://cs.brown.edu/people/epavlick/) (Brown University / Google AI).
 
 ## Conference speakers
 
-- [Cameron Buckner](http://cameronbuckner.net/) (University of Houston) <a href="https://scholar.google.com/citations?user=OXgCldoAAAAJ&hl=en&oi=ao"><i class="fa-solid fa-graduation-cap"></i></a>
-- [Rosa Cao](https://sites.google.com/site/luosha/home) (Stanford University) <a href="https://scholar.google.com/citations?hl=en&user=Zq4LxlUAAAA"><i class="fa-solid fa-graduation-cap"></i></a>
-- [Ishita Dasgupta](https://ishita-dg.github.io/) (DeepMind) <a href="https://scholar.google.com/citations?hl=en&user=eJt6cSIAAAAJ"><i class="fa-solid fa-graduation-cap"></i></a>
-- [Nikolaus Kriegeskorte](https://zuckermaninstitute.columbia.edu/nikolaus-kriegeskorte-phd) (Columbia University) <a href="https://scholar.google.com/citations?hl=en&user=w6M4YN4AAAAJ"><i class="fa-solid fa-graduation-cap"></i></a>
-- [Brenden Lake](https://cims.nyu.edu/~brenden/) (New York University / Meta AI) <a href="https://scholar.google.com/citations?hl=en&user=vspmOX8AAAAJ"><i class="fa-solid fa-graduation-cap"></i></a>
-- [Grace Lindsay](https://gracewlindsay.com/) (New York University) <a href="https://scholar.google.com/citations?user=4kETHY4AAAAJ&hl=en&oi=sra"><i class="fa-solid fa-graduation-cap"></i></a>
-- [Tal Linzen](https://tallinzen.net/) (New York University / Google AI) <a href="https://scholar.google.com/citations?hl=en&user=5mJDXjoAAAAJ"><i class="fa-solid fa-graduation-cap"></i></a>
-- [Raphaël Millière](https://www.raphaelmilliere.com/) (Columbia University) <a href="https://scholar.google.com/citations?hl=en&user=_2kiRH0AAAAJ"><i class="fa-solid fa-graduation-cap"></i></a>
-- [Nicholas Shea](https://www.nicholasshea.co.uk/) (Institute of Philosophy, University of London) <a href="https://scholar.google.com/citations?hl=en&user=zWV1_3oAAAAJ"><i class="fa-solid fa-graduation-cap"></i></a>
+- [Cameron Buckner](http://cameronbuckner.net/) (University of Houston) 
+- [Rosa Cao](https://sites.google.com/site/luosha/home) (Stanford University) 
+- [Ishita Dasgupta](https://ishita-dg.github.io/) (DeepMind) 
+- [Nikolaus Kriegeskorte](https://zuckermaninstitute.columbia.edu/nikolaus-kriegeskorte-phd) (Columbia University) 
+- [Brenden Lake](https://cims.nyu.edu/~brenden/) (New York University / Meta AI)
+- [Grace Lindsay](https://gracewlindsay.com/) (New York University) 
+- [Tal Linzen](https://tallinzen.net/) (New York University / Google AI)
+- [Raphaël Millière](https://www.raphaelmilliere.com/) (Columbia University) 
+- [Nicholas Shea](https://www.nicholasshea.co.uk/) (Institute of Philosophy, University of London) 
 
 ## Call for abstracts
 
