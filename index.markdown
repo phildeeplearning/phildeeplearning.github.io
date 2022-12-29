@@ -7,7 +7,7 @@ layout: home
 
 <script src="https://kit.fontawesome.com/74942b0a11.js" crossorigin="anonymous"></script>
 
-<p style="text-align:center;"><img width="25%" src="logo.png" alt="Logo" loading="lazy"></p>
+<p style="text-align:center;"><img width="50%" src="logo.png" alt="Logo" loading="lazy"></p>
 
 [[About](#about) · [Speakers](#conference-speakers) · [Call for Abstracts](#call-for-abstracts)]
 
