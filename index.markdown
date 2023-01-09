@@ -28,7 +28,7 @@ The conference will focus especially on topics in the philosophy of cognitive sc
 - How do deep learning systems bear on philosophical debates such as rationalism vs empiricism and classical vs. nonclassical views of cognition.
 - What are the key obstacles on the path from current deep learning systems to human-level cognition?
 
-A pre-conference debate on Friday, March 24th will tackle the question “Do large language models need sensory grounding for meaning and understanding ?”.  Speakers include [Jacob Browning](https://www.berggruen.org/people/jacob-browning/) (New York University), [David Chalmers](https://consc.net/) (New York University), [Yann LeCun](https://engineering.nyu.edu/faculty/yann-lecun) (New York University), and [Ellie Pavlick](https://cs.brown.edu/people/epavlick/) (Brown University / Google AI).
+A pre-conference debate on Friday, March 24th will tackle the question “Do large language models need sensory grounding for meaning and understanding ?”.  Speakers include [Jacob Browning](https://www.berggruen.org/people/jacob-browning/) (New York University), [David Chalmers](https://consc.net/) (New York University), [Yann LeCun](https://engineering.nyu.edu/faculty/yann-lecun) (New York University / Meta AI), and [Ellie Pavlick](https://cs.brown.edu/people/epavlick/) (Brown University / Google AI).
 
 ## Conference speakers
 
