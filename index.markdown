@@ -36,7 +36,7 @@ A pre-conference debate on Friday, March 24th will tackle the question “Do lar
 - [Rosa Cao](https://sites.google.com/site/luosha/home) (Stanford University) 
 - [Ishita Dasgupta](https://ishita-dg.github.io/) (DeepMind) 
 - [Nikolaus Kriegeskorte](https://zuckermaninstitute.columbia.edu/nikolaus-kriegeskorte-phd) (Columbia University) 
-- [Brenden Lake](https://cims.nyu.edu/~brenden/) (New York University / Meta AI)
+- [Brenden Lake](https://cims.nyu.edu/~brenden/) (New York University)
 - [Grace Lindsay](https://gracewlindsay.com/) (New York University) 
 - [Tal Linzen](https://tallinzen.net/) (New York University / Google AI)
 - [Raphaël Millière](https://www.raphaelmilliere.com/) (Columbia University) 
