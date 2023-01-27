@@ -44,6 +44,6 @@ A pre-conference debate on Friday, March 24th will tackle the question “Do lar
 
 ## Call for abstracts
 
-We invite abstract submissions for a few short talks and poster presentations related to the topic of the conference. Submissions from graduate students and early career researchers are particularly encouraged. **Please send a title and abstract (500-750 words) to [phildeeplearning@gmail.com](mailto:phildeeplearning@gmail.com) by January 22nd, 2023 (11.59pm EST).**
+The call for abstract is now closed. We will notify authors about decisions around mid-February.
 
 Please note that we are unable to cover traveling expenses for selected talks and posters.
