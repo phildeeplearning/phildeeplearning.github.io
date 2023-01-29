@@ -9,7 +9,7 @@ layout: home
 
 <p style="text-align:center;"><img width="65%" src="logo.png" alt="Logo" loading="lazy"></p>
 
-[[About](#about) · [Speakers](#conference-speakers) · [Call for Abstracts](#call-for-abstracts)]
+[[About](#about) · [Registration](#registration) · [Speakers](#conference-speakers) · [Call for Abstracts](#call-for-abstracts)]
 
 A two-day conference on the philosophy of deep learning, organized by [Ned Block](https://www.nedblock.us/) (New York University), [David Chalmers](https://consc.net/) (New York University) and [Raphaël Millière](https://raphaelmilliere.com) (Columbia University), and jointly sponsored by the [Presidential Scholars in Society and Neuroscience program](https://scienceandsociety.columbia.edu/content/presidential-scholars-society-and-neuroscience) at Columbia University and the [Center for Mind, Brain, and Consciousness](https://wp.nyu.edu/consciousness/) at New York University.
 
@@ -29,6 +29,10 @@ The conference will focus especially on topics in the philosophy of cognitive sc
 - What are the key obstacles on the path from current deep learning systems to human-level cognition?
 
 A pre-conference debate on Friday, March 24th will tackle the question “Do large language models need sensory grounding for meaning and understanding ?”.  Speakers include [Jacob Browning](https://www.berggruen.org/people/jacob-browning/) (New York University), [David Chalmers](https://consc.net/) (New York University), [Yann LeCun](https://engineering.nyu.edu/faculty/yann-lecun) (New York University / Meta AI), and [Ellie Pavlick](https://cs.brown.edu/people/epavlick/) (Brown University / Google AI).
+
+## Registration
+
+Attendees should register in advance [here](https://www.eventbrite.com/e/philosophy-of-deep-learning-conference-tickets-453924730087).
 
 ## Conference speakers
 
