@@ -51,7 +51,7 @@ Attendance is free but requires registration. Please register in advance [here](
 ### Friday, March 24th (Cantor Film Center, Room 200)
 
 - 5:30-7:30pm • **Debate: Do Language Models Need Sensory Grounding for Meaning and Understanding?**
-    - Speakers: Jake Browning (NYU), David Chalmers (NYU), Brenden Lake (NYU), Yann LeCun (NYU), Gary Lupyan (Wisconsin), Ellie Pavlick (Brown)
+    - Speakers: Jake Browning (NYU), David Chalmers (NYU), Brenden Lake (NYU), Yann LeCun (NYU / Meta AI), Gary Lupyan (Wisconsin), Ellie Pavlick (Brown / Google AI)
  
 ### Saturday, March 25th (19 West 4th Street, Room 101)
 
@@ -65,7 +65,7 @@ Attendance is free but requires registration. Please register in advance [here](
 - 3:00-4:15pm • **Poster Session**
     - Presenters: Atoosa Kasirzadeh (Edinburgh), Wai Keen Vong (NYU), Sreejan Kumar (Princeton), Will Merrill (NYU), Julia Minarik (Toronto), Jared Moore (Washington), Emin Orhan (NYU), Stephan Pohl (NYU), Hokyung Sung (MIT), Justin Tiehen (Puget Sound)
 - 4:15-6:15pm • **Panel: What Can Deep Learning Do for Cognitive Science and Vice Versa?**
-    - Speakers: Ishita Dasgupta (Deepmind), Niko Kriegeskorte (Columbia), Tal Linzen (NYU), Robert Long (Center for AI Safety), Ida Momennejad (Microsoft Research)
+    - Speakers: Ishita Dasgupta (DeepMind), Niko Kriegeskorte (Columbia), Tal Linzen (NYU / Google AI), Robert Long (Center for AI Safety), Ida Momennejad (Microsoft Research)
 
 ### Sunday, March 26th (19 West 4th Street, Room 101)
 
