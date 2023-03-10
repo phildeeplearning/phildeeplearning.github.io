@@ -28,7 +28,7 @@ The conference will focus especially on topics in the philosophy of cognitive sc
 - How do deep learning systems bear on philosophical debates such as rationalism vs empiricism and classical vs. nonclassical views of cognition.
 - What are the key obstacles on the path from current deep learning systems to human-level cognition?
 
-A pre-conference debate on Friday, March 24th will tackle the question “Do large language models need sensory grounding for meaning and understanding ?”.  Speakers include [Jacob Browning](https://www.berggruen.org/people/jacob-browning/) (New York University), [David Chalmers](https://consc.net/) (New York University), [Yann LeCun](https://engineering.nyu.edu/faculty/yann-lecun) (New York University / Meta AI), and [Ellie Pavlick](https://cs.brown.edu/people/epavlick/) (Brown University / Google AI).
+A pre-conference debate on Friday, March 24th will tackle the question “Do large language models need sensory grounding for meaning and understanding ?”.  Speakers include [Jacob Browning](https://www.berggruen.org/people/jacob-browning/) (New York University), [David Chalmers](https://consc.net/) (New York University), [Brenden Lake](https://cims.nyu.edu/~brenden/) (NYU), [Yann LeCun](https://engineering.nyu.edu/faculty/yann-lecun) (New York University / Meta AI), [Gary Lupyan](https://psych.wisc.edu/staff/lupyan-gary/) (Wisconsin), and [Ellie Pavlick](https://cs.brown.edu/people/epavlick/) (Brown University / Google AI).
 
 ## Registration
 
@@ -51,7 +51,7 @@ Attendance is free but requires registration. Please register in advance [here](
 ### Friday, March 24th (Cantor Film Center, Room 200)
 
 - 5:30-7:30pm • **Debate: Do Language Models Need Sensory Grounding for Meaning and Understanding?**
-    - Speakers: Jake Browning (NYU), David Chalmers (NYU), Brenden Lake (NYU), Yann LeCun (NYU / Meta AI), Gary Lupyan (Wisconsin), Ellie Pavlick (Brown / Google AI)
+    - Speakers: Jacob Browning (NYU), David Chalmers (NYU), Brenden Lake (NYU), Yann LeCun (NYU / Meta AI), Gary Lupyan (Wisconsin), Ellie Pavlick (Brown / Google AI)
  
 ### Saturday, March 25th (19 West 4th Street, Room 101)
 
