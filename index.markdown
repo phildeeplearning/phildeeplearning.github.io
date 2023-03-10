@@ -32,7 +32,7 @@ A pre-conference debate on Friday, March 24th will tackle the question “Do lar
 
 ## Registration
 
-Attendees should register in advance [here](https://www.eventbrite.com/e/philosophy-of-deep-learning-conference-tickets-453924730087).
+Attendance is free but requires registration. Please register in advance [here](https://www.eventbrite.com/e/philosophy-of-deep-learning-conference-tickets-453924730087).
 
 ## Invited conference speakers
 
@@ -50,31 +50,31 @@ Attendees should register in advance [here](https://www.eventbrite.com/e/philoso
 
 ### Friday, March 24th (Cantor Film Center, Room 200)
 
-- 5:30-7:30pm: Debate: Do Language Models Need Sensory Grounding for Meaning and Understanding?
+- 5:30-7:30pm • **Debate: Do Language Models Need Sensory Grounding for Meaning and Understanding?**
     - Speakers: Jake Browning (NYU), David Chalmers (NYU), Brenden Lake (NYU), Yann LeCun (NYU), Gary Lupyan (Wisconsin), Ellie Pavlick (Brown)
  
 ### Saturday, March 25th (19 West 4th Street, Room 101)
 
-- 9:00-9:30am | Coffee/Registration
-- 9:30-10:40am | **Lecture: Cameron Buckner (Houston) – “Moderate Empiricism and Machine Learning”**
-- 10:40-11:00am | Coffee Break
-- 11:00am-12:10pm | **Lecture: Rosa Cao (Stanford) – “Are (apparently) successful DNN models also genuinely explanatory?”**
-- 12:10-1:20pm | Lunch Break
-- 1:20-3:00pm | **Symposium: Representation in Deep Learning Systems**
-    - Speakers | Tony Chen (MIT), Jacqueline Harding (Stanford), Fintan Mallory (Oslo), Anders Sogaard (Copenhagen).
-- 3:00-4:15pm | **Poster Session**
+- 9:00-9:30am • Coffee/Registration
+- 9:30-10:40am • **Lecture: Cameron Buckner (Houston) – “Moderate Empiricism and Machine Learning”**
+- 10:40-11:00am • Coffee Break
+- 11:00am-12:10pm • **Lecture: Rosa Cao (Stanford) – “Are (apparently) successful DNN models also genuinely explanatory?”**
+- 12:10-1:20pm • Lunch Break
+- 1:20-3:00pm • **Symposium: Representation in Deep Learning Systems**
+    - Speakers • Tony Chen (MIT), Jacqueline Harding (Stanford), Fintan Mallory (Oslo), Anders Sogaard (Copenhagen).
+- 3:00-4:15pm • **Poster Session**
     - Presenters: Atoosa Kasirzadeh (Edinburgh), Wai Keen Vong (NYU), Sreejan Kumar (Princeton), Will Merrill (NYU), Julia Minarik (Toronto), Jared Moore (Washington), Emin Orhan (NYU), Stephan Pohl (NYU), Hokyung Sung (MIT), Justin Tiehen (Puget Sound)
-- 4:15-6:15pm | **Panel: What Can Deep Learning Do for Cognitive Science and Vice Versa?**
+- 4:15-6:15pm • **Panel: What Can Deep Learning Do for Cognitive Science and Vice Versa?**
     - Speakers: Ishita Dasgupta (Deepmind), Niko Kriegeskorte (Columbia), Tal Linzen (NYU), Robert Long (Center for AI Safety), Ida Momennejad (Microsoft Research)
 
 ### Sunday, March 26th (19 West 4th Street, Room 101)
 
-- 9:30-10:00am | Coffee
-- 10:00am-11:10pm | **Lecture: Nick Shea (London) – “The Importance of Logical Reasoning and Its Emergence in Deep Neural Networks”**
-- 11:10-11:30am | Coffee Break
-- 11:30am-12:40pm | **Lecture: Raphaël Millière (Columbia) – “Compositionality in Deep Neural Networks”**
-- 12:40-2:10pm | Lunch Break
-- 2:10-3:20pm | **Lecture: Grace Lindsay (NYU) – “Developing Neural Systems Understanding”**
-- 3:20-4:00pm | Coffee Break
-- 4:00-5:40 pm | **Symposium: Linguistic and Cognitive Capacities of Large Language Models**
-    - Speakers | Nuhu Osman Attah (Pittsburgh), Patrick Butlin (Oxford), Philippe Verreault-Julien (Eindhoven), Anna Ivanova (MIT)
+- 9:30-10:00am • Coffee
+- 10:00am-11:10pm • **Lecture: Nick Shea (London) – “The Importance of Logical Reasoning and Its Emergence in Deep Neural Networks”**
+- 11:10-11:30am • Coffee Break
+- 11:30am-12:40pm • **Lecture: Raphaël Millière (Columbia) – “Compositionality in Deep Neural Networks”**
+- 12:40-2:10pm • Lunch Break
+- 2:10-3:20pm • **Lecture: Grace Lindsay (NYU) – “Developing Neural Systems Understanding”**
+- 3:20-4:00pm • Coffee Break
+- 4:00-5:40 pm • **Symposium: Linguistic and Cognitive Capacities of Large Language Models**
+    - Speakers • Nuhu Osman Attah (Pittsburgh), Patrick Butlin (Oxford), Philippe Verreault-Julien (Eindhoven), Anna Ivanova (MIT)
