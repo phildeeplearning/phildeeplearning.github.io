@@ -9,7 +9,7 @@ layout: home
 
 <p style="text-align:center;"><img width="65%" src="logo.png" alt="Logo" loading="lazy"></p>
 
-[[About](#about) · [Registration](#registration) · [Speakers](#conference-speakers) · [Call for Abstracts](#call-for-abstracts)]
+[[About](#about) · [Registration](#registration) · [Invited Speakers](#invited-conference-speakers) · [Program](#program)]
 
 A two-day conference on the philosophy of deep learning, organized by [Ned Block](https://www.nedblock.us/) (New York University), [David Chalmers](https://consc.net/) (New York University) and [Raphaël Millière](https://raphaelmilliere.com) (Columbia University), and jointly sponsored by the [Presidential Scholars in Society and Neuroscience program](https://scienceandsociety.columbia.edu/content/presidential-scholars-society-and-neuroscience) at Columbia University and the [Center for Mind, Brain, and Consciousness](https://wp.nyu.edu/consciousness/) at New York University.
 
@@ -34,7 +34,7 @@ A pre-conference debate on Friday, March 24th will tackle the question “Do lar
 
 Attendees should register in advance [here](https://www.eventbrite.com/e/philosophy-of-deep-learning-conference-tickets-453924730087).
 
-## Conference speakers
+## Invited conference speakers
 
 - [Cameron Buckner](http://cameronbuckner.net/) (University of Houston) 
 - [Rosa Cao](https://sites.google.com/site/luosha/home) (Stanford University) 
@@ -46,8 +46,35 @@ Attendees should register in advance [here](https://www.eventbrite.com/e/philoso
 - [Raphaël Millière](https://www.raphaelmilliere.com/) (Columbia University) 
 - [Nicholas Shea](https://www.nicholasshea.co.uk/) (Institute of Philosophy, University of London) 
 
-## Call for abstracts
+## Program
 
-The call for abstract is now closed. We will notify authors about decisions around mid-February.
+### Friday, March 24th (Cantor Film Center, Room 200)
 
-Please note that we are unable to cover traveling expenses for selected talks and posters.
+- 5:30-7:30pm: Debate: Do Language Models Need Sensory Grounding for Meaning and Understanding?
+    - Speakers: Jake Browning (NYU), David Chalmers (NYU), Brenden Lake (NYU), Yann LeCun (NYU), Gary Lupyan (Wisconsin), Ellie Pavlick (Brown)
+ 
+### Saturday, March 25th (19 West 4th Street, Room 101)
+
+- 9:00-9:30am | Coffee/Registration
+- 9:30-10:40am | **Lecture: Cameron Buckner (Houston) – “Moderate Empiricism and Machine Learning”**
+- 10:40-11:00am | Coffee Break
+- 11:00am-12:10pm | **Lecture: Rosa Cao (Stanford) – “Are (apparently) successful DNN models also genuinely explanatory?”**
+- 12:10-1:20pm | Lunch Break
+- 1:20-3:00pm | **Symposium: Representation in Deep Learning Systems**
+    - Speakers | Tony Chen (MIT), Jacqueline Harding (Stanford), Fintan Mallory (Oslo), Anders Sogaard (Copenhagen).
+- 3:00-4:15pm | **Poster Session**
+    - Presenters: Atoosa Kasirzadeh (Edinburgh), Wai Keen Vong (NYU), Sreejan Kumar (Princeton), Will Merrill (NYU), Julia Minarik (Toronto), Jared Moore (Washington), Emin Orhan (NYU), Stephan Pohl (NYU), Hokyung Sung (MIT), Justin Tiehen (Puget Sound)
+- 4:15-6:15pm | **Panel: What Can Deep Learning Do for Cognitive Science and Vice Versa?**
+    - Speakers: Ishita Dasgupta (Deepmind), Niko Kriegeskorte (Columbia), Tal Linzen (NYU), Robert Long (Center for AI Safety), Ida Momennejad (Microsoft Research)
+
+### Sunday, March 26th (19 West 4th Street, Room 101)
+
+- 9:30-10:00am | Coffee
+- 10:00am-11:10pm | **Lecture: Nick Shea (London) – “The Importance of Logical Reasoning and Its Emergence in Deep Neural Networks”**
+- 11:10-11:30am | Coffee Break
+- 11:30am-12:40pm | **Lecture: Raphaël Millière (Columbia) – “Compositionality in Deep Neural Networks”**
+- 12:40-2:10pm | Lunch Break
+- 2:10-3:20pm | **Lecture: Grace Lindsay (NYU) – “Developing Neural Systems Understanding”**
+- 3:20-4:00pm | Coffee Break
+- 4:00-5:40 pm | **Symposium: Linguistic and Cognitive Capacities of Large Language Models**
+    - Speakers | Nuhu Osman Attah (Pittsburgh), Patrick Butlin (Oxford), Philippe Verreault-Julien (Eindhoven), Anna Ivanova (MIT)
