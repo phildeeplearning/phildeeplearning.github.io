@@ -21,7 +21,7 @@
 title: The Philosophy of Deep Learning
 email: phildeeplearning@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  New York University | March 25-26, 2023
+  New York University | March 24-26, 2023
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://phildeeplearning.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
