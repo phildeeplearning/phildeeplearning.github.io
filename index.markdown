@@ -42,7 +42,7 @@ Attendance is free but requires registration. Please register in advance [here](
 - [David Chalmers](https://consc.net/) (New York University)
 - [Brenden Lake](https://cims.nyu.edu/~brenden/) (New York University)
 - [Yann LeCun](https://engineering.nyu.edu/faculty/yann-lecun) (New York University / Meta AI)
-- [Gary Lupyan](https://psych.wisc.edu/staff/lupyan-gary/) (Wisconsin)
+- [Gary Lupyan](https://psych.wisc.edu/staff/lupyan-gary/) (University of Wisconsin–Madison)
 - [Ellie Pavlick](https://cs.brown.edu/people/epavlick/) (Brown University / Google AI)
 
 ### Lectures
