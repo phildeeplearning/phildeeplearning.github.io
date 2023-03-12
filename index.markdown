@@ -9,7 +9,7 @@ layout: home
 
 <p style="text-align:center;"><img width="65%" src="logo.png" alt="Logo" loading="lazy"></p>
 
-[[About](#about) · [Registration](#registration) · [Invited Speakers](#invited-conference-speakers) · [Program](#program)]
+[[About](#about) · [Registration](#registration) · [Speakers](#speakers) · [Program](#program)]
 
 A two-day conference plus pre-conference debate on the philosophy of deep learning, organized by [Ned Block](https://www.nedblock.us/) (New York University), [David Chalmers](https://consc.net/) (New York University) and [Raphaël Millière](https://raphaelmilliere.com) (Columbia University), and jointly sponsored by the [Presidential Scholars in Society and Neuroscience program](https://scienceandsociety.columbia.edu/content/presidential-scholars-society-and-neuroscience) at Columbia University and the [Center for Mind, Brain, and Consciousness](https://wp.nyu.edu/consciousness/) at New York University.
 
@@ -28,23 +28,49 @@ The conference will focus especially on topics in the philosophy of cognitive sc
 - How do deep learning systems bear on philosophical debates such as rationalism vs empiricism and classical vs. nonclassical views of cognition.
 - What are the key obstacles on the path from current deep learning systems to human-level cognition?
 
-A pre-conference debate on Friday, March 24th will tackle the question “Do large language models need sensory grounding for meaning and understanding ?”.  Speakers include [Jacob Browning](https://www.berggruen.org/people/jacob-browning/) (New York University), [David Chalmers](https://consc.net/) (New York University), [Brenden Lake](https://cims.nyu.edu/~brenden/) (NYU), [Yann LeCun](https://engineering.nyu.edu/faculty/yann-lecun) (New York University / Meta AI), [Gary Lupyan](https://psych.wisc.edu/staff/lupyan-gary/) (Wisconsin), and [Ellie Pavlick](https://cs.brown.edu/people/epavlick/) (Brown University / Google AI).
+A pre-conference debate on Friday, March 24th will tackle the question “Do large language models need sensory grounding for meaning and understanding ?”. 
 
 ## Registration
 
 Attendance is free but requires registration. Please register in advance [here](https://www.eventbrite.com/e/philosophy-of-deep-learning-conference-tickets-453924730087).
 
-## Invited conference speakers
+## Speakers
+
+### Pre-Conference Debate
+
+- [Jacob Browning](https://www.berggruen.org/people/jacob-browning/) (New York University)
+- [David Chalmers](https://consc.net/) (New York University)
+- [Brenden Lake](https://cims.nyu.edu/~brenden/) (New York University)
+- [Yann LeCun](https://engineering.nyu.edu/faculty/yann-lecun) (New York University / Meta AI)
+- [Gary Lupyan](https://psych.wisc.edu/staff/lupyan-gary/) (Wisconsin)
+- [Ellie Pavlick](https://cs.brown.edu/people/epavlick/) (Brown University / Google AI)
+
+### Lectures
 
 - [Cameron Buckner](http://cameronbuckner.net/) (University of Houston) 
 - [Rosa Cao](https://sites.google.com/site/luosha/home) (Stanford University) 
-- [Ishita Dasgupta](https://ishita-dg.github.io/) (DeepMind) 
-- [Nikolaus Kriegeskorte](https://zuckermaninstitute.columbia.edu/nikolaus-kriegeskorte-phd) (Columbia University) 
-- [Brenden Lake](https://cims.nyu.edu/~brenden/) (New York University)
 - [Grace Lindsay](https://gracewlindsay.com/) (New York University) 
-- [Tal Linzen](https://tallinzen.net/) (New York University / Google AI)
 - [Raphaël Millière](https://www.raphaelmilliere.com/) (Columbia University) 
 - [Nicholas Shea](https://www.nicholasshea.co.uk/) (Institute of Philosophy, University of London) 
+
+### Panel on Deep Learning and Cognitive Science
+
+- [Ishita Dasgupta](https://ishita-dg.github.io/) (DeepMind) 
+- [Nikolaus Kriegeskorte](https://zuckermaninstitute.columbia.edu/nikolaus-kriegeskorte-phd) (Columbia University) 
+- [Tal Linzen](https://tallinzen.net/) (New York University / Google AI)
+- [Robert Long](https://robertlong.online/) (Center for AI Safety)
+- [Ida Momennejad](https://www.momen-nejad.org/) (Microsoft Research)
+
+### Symposia
+
+- [Nuhu Osman Attah](https://www.hps.pitt.edu/people/nuhu-osman-attah) (University of Pittsburgh)
+- [Patrick Butlin](https://patrickbutlin.com/) (University of Oxford)
+- [Tony Chen](https://chentoast.github.io/) (MIT)
+- [Jacqueline Harding](https://hai.stanford.edu/people/jacqueline-harding) (Stanford University)
+- [Anna Ivanova](https://anna-ivanova.net/) (MIT)
+- [Fintan Mallory](https://fintanmallory.com/) (University of Oslo)
+- [Anders Søgaard](https://anderssoegaard.github.io/) (University of Copenhagen)
+- [Philippe Verreault-Julien](https://pvjulien.net/) (Eindhoven University of Technology)
 
 ## Program
 
@@ -61,7 +87,7 @@ Attendance is free but requires registration. Please register in advance [here](
 - 11:00am-12:10pm • **Lecture: Rosa Cao (Stanford) – “Are (apparently) successful DNN models also genuinely explanatory?”**
 - 12:10-1:20pm • Lunch Break
 - 1:20-3:00pm • **Symposium: Representation in Deep Learning Systems**
-    - Speakers • Tony Chen (MIT), Jacqueline Harding (Stanford), Fintan Mallory (Oslo), Anders Sogaard (Copenhagen).
+    - Speakers • Tony Chen (MIT), Jacqueline Harding (Stanford), Fintan Mallory (Oslo), Anders Søgaard (Copenhagen).
 - 3:00-4:15pm • **Poster Session**
     - Presenters: Atoosa Kasirzadeh (Edinburgh), Wai Keen Vong (NYU), Sreejan Kumar (Princeton), Will Merrill (NYU), Julia Minarik (Toronto), Jared Moore (Washington), Emin Orhan (NYU), Stephan Pohl (NYU), Hokyung Sung (MIT), Justin Tiehen (Puget Sound)
 - 4:15-6:15pm • **Panel: What Can Deep Learning Do for Cognitive Science and Vice Versa?**
