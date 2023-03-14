@@ -32,7 +32,9 @@ A pre-conference debate on Friday, March 24th will tackle the question “Do lar
 
 ## Registration
 
-Attendance is free but requires registration. Please register in advance [here](https://www.eventbrite.com/e/philosophy-of-deep-learning-conference-tickets-453924730087).
+Attendance is free but requires registration. Please register in advance [here](https://www.eventbrite.com/e/philosophy-of-deep-learning-conference-tickets-453924730087). Please note that an eventbrite ticket does not guarantee a seat and that there may or may not be enough space (see also information about the [livestream](#livestream) below).
+
+> REMINDER: ALL VISITORS MUST ADHERE TO NYU'S COVID VACCINATION REQUIREMENTS. NYU requires that you be able to show proof of covid vaccination including one booster if asked. You must register at least 24 hours in advance so that your name/email address can be sponsored in our system. You will need to show proof of government ID to our security guard.
 
 ## Speakers
 
