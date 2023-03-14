@@ -9,7 +9,7 @@ layout: home
 
 <p style="text-align:center;"><img width="65%" src="logo.png" alt="Logo" loading="lazy"></p>
 
-[[About](#about) · [Registration](#registration) · [Speakers](#speakers) · [Program](#program)]
+[[About](#about) · [Registration](#registration) · [Speakers](#speakers) · [Program](#program) · [Livestream](#livestream)]
 
 A two-day conference  (March 25-26) plus pre-conference debate (March 24) on the philosophy of deep learning, organized by [Ned Block](https://www.nedblock.us/) (New York University), [David Chalmers](https://consc.net/) (New York University) and [Raphaël Millière](https://raphaelmilliere.com) (Columbia University), and jointly sponsored by the [Presidential Scholars in Society and Neuroscience program](https://scienceandsociety.columbia.edu/content/presidential-scholars-society-and-neuroscience) at Columbia University and the [Center for Mind, Brain, and Consciousness](https://wp.nyu.edu/consciousness/) at New York University.
 
@@ -72,6 +72,19 @@ Attendance is free but requires registration. Please register in advance [here](
 - [Anders Søgaard](https://anderssoegaard.github.io/) (University of Copenhagen)
 - [Philippe Verreault-Julien](https://pvjulien.net/) (Eindhoven University of Technology)
 
+### Poster presentations
+
+- [Atoosa Kasirzadeh](https://kasirzadeh.org/) (University of Edinburgh)
+- [Wai Keen Vong](https://www.waikeenvong.com/) (New York University)
+- [Sreejan Kumar](https://sites.google.com/site/sreejankumar97) (Princeton University)
+- [Will Merrill](https://lambdaviking.com/) (New York University)
+- [Julia Minarik](https://philosophy.utoronto.ca/directory/julia-minarik/) (University of Toronto)
+- [Jared Moore](https://jaredmoore.org/) (University of Washington)
+- [Emin Orhan](https://sites.google.com/view/eminorhan) (New York University)
+- [Stephan Pohl](https://as.nyu.edu/departments/philosophy/directory/students/Stephan-Pohl.html) (New York University)
+- [Hokyung Sung](https://bcs.mit.edu/directory/ho-kyung-sung) (MIT)
+- [Justin Tiehen](https://www.pugetsound.edu/directory/justin-tiehen) (Puget Sound)
+
 ## Program
 
 ### Friday, March 24th (Cantor Film Center, Room 200)
@@ -104,3 +117,7 @@ Attendance is free but requires registration. Please register in advance [here](
 - 3:20-4:00pm • Coffee Break
 - 4:00-5:40 pm • **Symposium: Linguistic and Cognitive Capacities of Large Language Models**
     - Speakers • Nuhu Osman Attah (Pittsburgh), Patrick Butlin (Oxford), Philippe Verreault-Julien (Eindhoven), Anna Ivanova (MIT)
+
+## Livestream
+
+The conference will be livestreamed and recorded via Zoom on [phildeeplearning.github.io/streaming](https://phildeeplearning.github.io/streaming). Please note that this is not a hybrid conference, and viewers on the livestream will not be able to ask questions or participate remotely.
