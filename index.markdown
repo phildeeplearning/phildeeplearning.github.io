@@ -82,6 +82,7 @@ Attendance is free but requires registration. Please register in advance [here](
 - [Will Merrill](https://lambdaviking.com/) (New York University)
 - [Julia Minarik](https://philosophy.utoronto.ca/directory/julia-minarik/) (University of Toronto)
 - [Jared Moore](https://jaredmoore.org/) (University of Washington)
+- [Nedah Nemati](https://presidentialscholars.columbia.edu/directory/nedah-nemati) (Columbia University)
 - [Emin Orhan](https://sites.google.com/view/eminorhan) (New York University)
 - [Stephan Pohl](https://as.nyu.edu/departments/philosophy/directory/students/Stephan-Pohl.html) (New York University)
 - [Hokyung Sung](https://bcs.mit.edu/directory/ho-kyung-sung) (MIT)
