@@ -71,8 +71,10 @@ Attendance is free but requires registration. Please register in advance [here](
 - [Jacqueline Harding](https://hai.stanford.edu/people/jacqueline-harding) (Stanford University)
 - [Anna Ivanova](https://anna-ivanova.net/) (MIT)
 - [Fintan Mallory](https://fintanmallory.com/) (University of Oslo)
+- [Mitchell Ostrow](https://mitchellostrow.github.io/) (MIT) 
 - [Anders Søgaard](https://anderssoegaard.github.io/) (University of Copenhagen)
 - [Philippe Verreault-Julien](https://pvjulien.net/) (Eindhoven University of Technology)
+- [Cedegao Zhang](https://bcs.mit.edu/directory/ced-zhang) (MIT) 
 
 ### Poster presentations
 
@@ -103,7 +105,7 @@ Attendance is free but requires registration. Please register in advance [here](
 - 11:00am-12:10pm • **Lecture: Rosa Cao (Stanford) – “Are (apparently) successful DNN models also genuinely explanatory?”**
 - 12:10-1:20pm • Lunch Break
 - 1:20-3:00pm • **Symposium: Representation in Deep Learning Systems**
-    - Speakers • Tony Chen (MIT), Jacqueline Harding (Stanford), Fintan Mallory (Oslo), Anders Søgaard (Copenhagen).
+    - Speakers • Tony Chen (MIT) | Mitchell Ostrow (MIT) | Cedegao Zhang (MIT), Jacqueline Harding (Stanford), Fintan Mallory (Oslo), Anders Søgaard (Copenhagen).
 - 3:00-4:15pm • **Poster Session**
     - Presenters: Atoosa Kasirzadeh (Edinburgh), Wai Keen Vong (NYU), Sreejan Kumar (Princeton), Will Merrill (NYU), Julia Minarik (Toronto), Jared Moore (Washington), Nedah Nemati (Columbia), Emin Orhan (NYU), Stephan Pohl (NYU), Hokyung Sung (MIT), Justin Tiehen (Puget Sound)
 - 4:15-6:15pm • **Panel: What Can Deep Learning Do for Cognitive Science and Vice Versa?**
