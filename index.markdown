@@ -32,7 +32,7 @@ A pre-conference debate on Friday, March 24th will tackle the question “Do lar
 
 ## Registration
 
-**REGISTRATION FOR THIS EVENT IS NOW CLOSED.**
+⚠️ **REGISTRATION FOR THIS EVENT IS NOW CLOSED** ⚠️
 
 The debate and conference will be [livestreamed](#livestream) (no registration required).
 
