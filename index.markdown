@@ -9,7 +9,7 @@ layout: home
 
 <p style="text-align:center;"><img width="65%" src="logo.png" alt="Logo" loading="lazy"></p>
 
-[[About](#about) · [Registration](#registration) · [Speakers](#speakers) · [Program](#program) · [Livestream](#livestream)]
+[[About](#about) · [Speakers](#speakers) · [Program](#program) · [Livestream](#livestream) · [Registration](#registration) ]
 
 A two-day conference  (March 25-26) plus pre-conference debate (March 24) on the philosophy of deep learning, organized by [Ned Block](https://www.nedblock.us/) (New York University), [David Chalmers](https://consc.net/) (New York University) and [Raphaël Millière](https://raphaelmilliere.com) (Columbia University), and jointly sponsored by the [Presidential Scholars in Society and Neuroscience program](https://scienceandsociety.columbia.edu/content/presidential-scholars-society-and-neuroscience) at Columbia University and the [Center for Mind, Brain, and Consciousness](https://wp.nyu.edu/consciousness/) at New York University.
 
@@ -95,6 +95,8 @@ The conference and debate are free, but in-person attendance requires registrati
 - [Justin Tiehen](https://www.pugetsound.edu/directory/justin-tiehen) (Puget Sound)
 
 ## Program
+
+The full program booklet, including abstracts, can be downloaded [here](/program/program.pdf).
 
 ### Friday, March 24th (Cantor Film Center, Room 200)
 
