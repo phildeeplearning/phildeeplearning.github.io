@@ -9,7 +9,7 @@ layout: home
 
 <p style="text-align:center;"><img width="65%" src="logo.png" alt="Logo" loading="lazy"></p>
 
-[[About](#about) · [Speakers](#speakers) · [Program](#program) · [Livestream](#livestream) · [Posters](/posters/) · [Registration](#registration) ]
+[[About](#about) · [Speakers](#speakers) · [Program](#program-and-recordings) · [Recordings](/recordings.html) · [Posters](/posters/)]
 
 A two-day conference  (March 25-26) plus pre-conference debate (March 24) on the philosophy of deep learning, organized by [Ned Block](https://www.nedblock.us/) (New York University), [David Chalmers](https://consc.net/) (New York University) and [Raphaël Millière](https://raphaelmilliere.com) (Columbia University), and jointly sponsored by the [Presidential Scholars in Society and Neuroscience program](https://scienceandsociety.columbia.edu/content/presidential-scholars-society-and-neuroscience) at Columbia University and the [Center for Mind, Brain, and Consciousness](https://wp.nyu.edu/consciousness/) at New York University.
 
@@ -29,16 +29,6 @@ The conference will focus especially on topics in the philosophy of cognitive sc
 - What are the key obstacles on the path from current deep learning systems to human-level cognition?
 
 A pre-conference debate on Friday, March 24th will tackle the question “Do large language models need sensory grounding for meaning and understanding ?”. 
-
-## Registration
-
-⚠️ **REGISTRATION FOR THIS EVENT IS NOW CLOSED** ⚠️
-
-The debate and conference will be [livestreamed](#livestream) (no registration required).
-
-The conference and debate are free, but in-person attendance requires registration. Registration does not guarantee a seat. Seating is first-come/first-served. 
-
-> REMINDER: ALL VISITORS MUST ADHERE TO NYU'S COVID VACCINATION REQUIREMENTS. NYU requires that you be able to show proof of covid vaccination including one booster if asked. You must register at least 24 hours in advance so that your name/email address can be sponsored in our system. You will need to show proof of government ID to our security guard.
 
 ## Speakers
 
@@ -94,41 +84,39 @@ The conference and debate are free, but in-person attendance requires registrati
 - [Hokyung Sung](https://bcs.mit.edu/directory/ho-kyung-sung) (MIT)
 - [Justin Tiehen](https://www.pugetsound.edu/directory/justin-tiehen) (Puget Sound)
 
-## Program
+## Program and recordings
 
-The full program booklet, including abstracts, can be downloaded [here](/program/program.pdf).
+The full program booklet, including abstracts, can be downloaded [here](/program/program.pdf). Video recordings are embedded as links in the program below.
 
 ### Friday, March 24th (Cantor Film Center, Room 200)
 
-- 5:30-7:30pm • **Debate: Do Language Models Need Sensory Grounding for Meaning and Understanding?**
+- 5:30-7:30pm • [**Debate: Do Language Models Need Sensory Grounding for Meaning and Understanding?**](https://youtu.be/x10964w00zk)
     - Speakers: Jacob Browning (NYU), David Chalmers (NYU), Brenden Lake (NYU), Yann LeCun (NYU / Meta AI), Gary Lupyan (Wisconsin), Ellie Pavlick (Brown / Google AI)
  
 ### Saturday, March 25th (19 West 4th Street, Room 101)
 
 - 9:00-9:30am • Coffee/Registration
-- 9:30-10:40am • **Lecture: Cameron Buckner (Houston) – “Moderate Empiricism and Machine Learning”**
+- 9:30-10:40am • [**Lecture: Cameron Buckner (Houston) – “Moderate Empiricism and Machine Learning”**](https://youtu.be/20JK0wVM0z0)
 - 10:40-11:00am • Coffee Break
-- 11:00am-12:10pm • **Lecture: Rosa Cao (Stanford) – “Are (apparently) successful DNN models also genuinely explanatory?”**
+- 11:00am-12:10pm • [**Lecture: Rosa Cao (Stanford) – “Are (apparently) successful DNN models also genuinely explanatory?”**](https://youtu.be/K80--9BpUgE)
 - 12:10-1:20pm • Lunch Break
-- 1:20-3:00pm • **Symposium: Representation in Deep Learning Systems**
-    - Speakers • Tony Chen (MIT) | Mitchell Ostrow (MIT) | Cedegao Zhang (MIT), Jacqueline Harding (Stanford), Fintan Mallory (Oslo), Anders Søgaard (Copenhagen).
-- 3:00-4:15pm • **Poster Session**
+- 1:20-3:00pm • [**Symposium: Representation in Deep Learning Systems**](https://youtu.be/46o-hf7Ssf0)
+    - Speakers • Tony Chen (MIT), Mitchell Ostrow (MIT), Cedegao Zhang (MIT), Jacqueline Harding (Stanford), Fintan Mallory (Oslo), Anders Søgaard (Copenhagen).
+- 3:00-4:15pm • [**Poster Session**](/posters/)
     - Presenters: Atoosa Kasirzadeh (Edinburgh), Wai Keen Vong (NYU), Sreejan Kumar (Princeton), Will Merrill (NYU), Julia Minarik (Toronto), Jared Moore (Washington), Nedah Nemati (Columbia), Emin Orhan (NYU), Stephan Pohl (NYU), Hokyung Sung (MIT), Justin Tiehen (Puget Sound)
-- 4:15-6:15pm • **Panel: What Can Deep Learning Do for Cognitive Science and Vice Versa?**
+- 4:15-6:15pm • [**Panel: What Can Deep Learning Do for Cognitive Science and Vice Versa?**](https://youtu.be/IaifsZV2mXI)
     - Speakers: Ishita Dasgupta (DeepMind), Niko Kriegeskorte (Columbia), Tal Linzen (NYU / Google AI), Robert Long (Center for AI Safety), Ida Momennejad (Microsoft Research)
 
 ### Sunday, March 26th (19 West 4th Street, Room 101)
 
 - 9:30-10:00am • Coffee
-- 10:00am-11:10pm • **Lecture: Nick Shea (London) – “The Importance of Logical Reasoning and Its Emergence in Deep Neural Networks”**
+- 10:00am-11:10pm • [**Lecture: Nick Shea (London) – “The Importance of Logical Reasoning and Its Emergence in Deep Neural Networks”**](https://youtu.be/IhrZVNeS19w)
 - 11:10-11:30am • Coffee Break
-- 11:30am-12:40pm • **Lecture: Raphaël Millière (Columbia) – “Compositionality in Deep Neural Networks”**
+- 11:30am-12:40pm • [**Lecture: Raphaël Millière (Columbia) – “Compositionality in Deep Neural Networks”**](https://youtu.be/vzS6Di5Mrxk)
 - 12:40-2:10pm • Lunch Break
-- 2:10-3:20pm • **Lecture: Grace Lindsay (NYU) – “Developing Neural Systems Understanding”**
+- 2:10-3:20pm • [**Lecture: Grace Lindsay (NYU) – “Developing Neural Systems Understanding”**](https://youtu.be/V-Dx96ywsQs)
 - 3:20-4:00pm • Coffee Break
-- 4:00-5:40 pm • **Symposium: Linguistic and Cognitive Capacities of Large Language Models**
+- 4:00-5:40 pm • [**Symposium: Linguistic and Cognitive Capacities of Large Language Models**](https://youtu.be/R1JwGNGqo9w)
     - Speakers • Nuhu Osman Attah (Pittsburgh), Patrick Butlin (Oxford), Philippe Verreault-Julien (Eindhoven), Anna Ivanova (MIT)
 
-## Livestream
-
-The conference will be livestreamed and recorded via Zoom on [phildeeplearning.github.io/streaming](https://phildeeplearning.github.io/streaming). Please note that this is not a hybrid conference, and viewers on the livestream will not be able to ask questions or participate remotely.
+All recording are also available [as a Youtube playlist](https://www.youtube.com/watch?v=x10964w00zk&list=PLY_s7b9LrR8W-AGC95PU43oYlERY2IQAk).
